@@ -1,6 +1,6 @@
 # Calculator-React-Redux
 
-#A calculator with history of previos entries,
+#A calculator with history of previos entries by using push opeartion to an array,
 
 #React-Redux is a best practice to maintain the state 
 
